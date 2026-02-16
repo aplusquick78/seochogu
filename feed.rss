@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+  <title>서초구 퀵서비스 | 24시 에이플러스 신속한 배송</title>
+  <link>https://seochogu.8222quick.com/</link>
+  <description>서초구 전지역 반포 방배 양재 서초동 24시 실시간 배차, 신속한 배송 원칙</description>
+  <language>ko-KR</language>
+  <pubDate>Mon, 16 Feb 2026 11:30:00 +0900</pubDate>
+  <lastBuildDate>Mon, 16 Feb 2026 11:30:00 +0900</lastBuildDate>
+  <atom:link href="https://seochogu.8222quick.com/rss.xml" rel="self" type="application/rss+xml" />
+
+  <item>
+    <title>서초구 퀵서비스 신속한 배송 안내</title>
+    <link>https://seochogu.8222quick.com/index.html</link>
+    <description>서초 전지역 오토바이, 다마스, 라보 퀵서비스. 법조타운 및 터미널 24시 신속한 배송을 보장합니다.</description>
+    <category>퀵서비스</category>
+    <pubDate>Mon, 16 Feb 2026 11:30:00 +0900</pubDate>
+    <guid>https://seochogu.8222quick.com/index.html</guid>
+  </item>
+
+  <item>
+    <title>서초구 퀵서비스 차종별 요금 및 결제 안내</title>
+    <link>https://seochogu.8222quick.com/money.html</link>
+    <description>서초구 퀵서비스 합리적인 요금 안내 및 기업 법인 결제 시스템 안내</description>
+    <category>요금안내</category>
+    <pubDate>Mon, 16 Feb 2026 11:30:00 +0900</pubDate>
+    <guid>https://seochogu.8222quick.com/money.html</guid>
+  </item>
+</channel>
+</rss>
